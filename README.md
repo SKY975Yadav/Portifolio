@@ -8,15 +8,8 @@ A modern, responsive portfolio website showcasing my skills, projects, and achie
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://your-portfolio-url.com) <!-- Replace with your actual deployment URL -->
+[View Live Portfolio](https://portifolio-five-mu.vercel.app/) <!-- Replace with your actual deployment URL -->
 
-## 📸 Screenshots
-
-### Hero Section
-![Hero Section](screenshots/hero.png) <!-- Add your screenshots -->
-
-### Projects Section
-![Projects Section](screenshots/projects.png) <!-- Add your screenshots -->
 
 ## ✨ Features
 
@@ -42,8 +35,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and achie
 ```
 portfolio/
 ├── src/
-│   ├── components/
-│   │   └── Portfolio.jsx    # Main portfolio component
+│   ├── Portfolio.jsx    # Main portfolio 
 │   ├── App.js
 │   ├── index.js
 │   └── index.css
